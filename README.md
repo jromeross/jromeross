@@ -7,7 +7,7 @@
 
 ---
 
-![Cybersecurity Banner](https://raw.githubusercontent.com/jromeross/cybersecurity-header.png)
+![Cybersecurity Banner](https://github.com/user-attachments/assets/7854f477-c779-4fa2-b4b8-916c57a4c19a)
 
 ---
 
@@ -59,14 +59,10 @@
 - 📧 **julian.romeros@bizagi.com**
 - 🌐 [LinkedIn](https://co.linkedin.com/in/juli%C3%A1n-alexander-romero-salazar-217a66143)
 - 🧑‍💼 [GitHub](https://github.com/jromeross)
-![cybersecurity-header](https![footer-cyber](https://github.com/user-attachments/assets/aedd9b51-0956-4125-8d22-1416c50ba756)
-://github.com/user-attachments/assets/d25dd602-6a13-455d-aca7-f4272c568ed0)
 
 ---
 
 > _"Secure by design. Safe by default."_  
 > _"No es paranoia si de verdad te están buscando..."_
 
-![Cybersec Footer](https://raw.githubusercontent.com/jromeross/![footer-cyber](https://github.com/user-attachments/assets/fec12232-9143-4d31-ac30-16dd28bc8953)
-![cybersecurity-header](https://github.com/user-attachments/assets/7854f477-c779-4fa2-b4b8-916c57a4c19a)
-footer-cyber.png)
+![Cybersec Footer](https://github.com/user-attachments/assets/aedd9b51-0956-4125-8d22-1416c50ba756)
